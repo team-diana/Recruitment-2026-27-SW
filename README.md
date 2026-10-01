@@ -12,9 +12,9 @@ In the README.md of each challenge you will find:
 
 List of challenges:
 
-    Runway Rush ........... 500pt
-    Sandy Code  ........... 300pt
-    SOS ................... 200pt
+    Runway Rush ........... 300pt
+    S.A.F.E. Code  ........... 200pt
+    Operation Hartsfield ................... 500pt
 
 GENERAL INSTRUCTIONS:
 
@@ -23,7 +23,7 @@ GENERAL INSTRUCTIONS:
     from that, create your own PRIVATE repo.
     Submit your code and expected outputs to your repo.
     When you're done, give read permissions to DIANA's github account (https://github.com/TeamDiana).
-    On 23:59 of the 16th of March we will download all the submitted files.
+    On 23:59 of the 11th of October we will download all the submitted files.
 
 If you need help or assistance you can write to computer.science@teamdiana.it. We will try not to give any hint on the challenges but we're easily bribable.
 
