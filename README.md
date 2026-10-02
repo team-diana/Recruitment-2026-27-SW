@@ -18,7 +18,7 @@ List of challenges:
 
 GENERAL INSTRUCTIONS:
 
-    clone the repo git clone git@github.com:team-diana/Recruitment-2026-27-OBC.git
+    clone the repo git clone git@github.com:team-diana/Recruitment-2026-27-SW.git
     checkout to the branch of the challenge you want git checkout <BRANCH_NAME>
     from that, create your own PRIVATE repo.
     Submit your code and expected outputs to your repo.
